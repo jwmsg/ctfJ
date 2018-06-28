@@ -14,5 +14,7 @@ export default {
 </script>
 
 <style lang="css">
-
+#error{
+  height: 560px;
+}
 </style>

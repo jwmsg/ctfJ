@@ -17,7 +17,7 @@
 
 <script>
 export default {
-  
+
 
   data(){
     return{
@@ -31,6 +31,7 @@ export default {
 #home{
   padding: 10px 0px 10px;
   /* border: 1px dashed #BDBDBD; */
+
   height: auto;
   margin-left: auto;
   margin-right: auto;

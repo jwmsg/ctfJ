@@ -59,7 +59,7 @@ div.GameCard{
   display: inline-block;
   margin: 20px;
   height: 120px;
-  width: 250px;
+  width: 290px;
   border: 1px solid #000000;
   background: #FFFFFF;
   border-radius: 6px;
