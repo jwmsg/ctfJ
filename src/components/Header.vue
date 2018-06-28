@@ -2,7 +2,7 @@
       <div>
         <br>
         <a href = "/">
-          <img src="../assets/logo.png" height="100px">
+          <img src="../assets/J_Logo.jpg" height="100px">
           <h1>CTF-J</h1>
         </a>
       <br>
@@ -39,30 +39,7 @@ export default {
 </script>
 
 <style lang="css">
-*{
-    margin:0;
-    padding:0;
-}
 
-body{
-    font:15px/1.3 'Open Sans', sans-serif;
-    color: #5e5b64;
-    text-align:center;
-}
-
-a, a:visited {
-    outline:none;
-    color:#5e5b64;
-    text-decoration:none
-}
-
-a:hover{
-    text-decoration:none;
-}
-
-section, footer, header, aside, nav{
-    display: block;
-}
 
 /*-------------------------
     The menu
