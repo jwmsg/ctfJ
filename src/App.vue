@@ -74,6 +74,8 @@ a:hover{
 section, footer, header, aside, nav{
     display: block;
 }
-
+pre{
+  color: #000000;
+}
 
 </style>

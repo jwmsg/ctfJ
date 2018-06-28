@@ -31,16 +31,10 @@ export default {
 
 #footer{
   padding: 10px 0px 10px;
-
   height: auto;
   width:100%;
-
-  position:absolute;
+  /* position:absolute; */
   bottom:0px;
-  left: inherit;
-  right: inherit;
-  left:50%;
-  transform:translateX(-50%);
   background: #0d54a6;
 }
 #footerbox{
@@ -56,7 +50,7 @@ export default {
 #loginbox{
   line-height: 2em;
   width:20%;
-  height: 200px;
+  height: 100%px;
   font-style: bold;
   /* border: 1px dashed #BDBDBD; */
 

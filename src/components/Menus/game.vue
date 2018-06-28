@@ -6,6 +6,7 @@
       <p>
       Here is Game page!<br>
       </p>
+      <gamepnl></gamepnl>
 
     </div>
 
@@ -14,7 +15,12 @@
 </template>
 
 <script>
+import game_pnl from '../elements/gamepannel.vue';
+
 export default {
+  components:{
+    'gamepnl':game_pnl
+  },
   data(){
     return{
          }
@@ -33,4 +39,5 @@ export default {
   text-align: left;
   line-height: 2em;
 }
+
 </style>
